@@ -1,0 +1,10 @@
+.titulo{
+    color: blue;
+    background-color: red;
+    text-align: center;
+    justify-items: center;
+}
+
+.paragrafo{
+    @apply text-blue-500
+}
